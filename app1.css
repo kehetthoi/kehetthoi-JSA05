@@ -1,0 +1,9 @@
+.borderlon{width: 100%; height: 700px; margin-top: 30px; margin: auto; display: flex; flex-wrap: wrap;}
+.borderrong{ width: 70%; margin: 0px auto; background-color: rgb(243, 243, 243); margin-top: 50px; height: auto;}
+.thanhcongcu{ border: 1px solid black; width:269px;margin-top: 30px; margin-left: 35%;}
+.itemtrong{  width: 250px; height: 300px; margin-left: 30px; background-color: white; margin-top: 30px;}
+.top{width: 100%; height: 200px;}
+.top img{width: 100%; height: 100%;}
+.bot{}
+.chu1{margin-left: 10px;}
+.chu2{margin-top: 10px; margin-left: 10px;}
